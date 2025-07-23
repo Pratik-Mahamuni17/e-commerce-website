@@ -32,5 +32,5 @@ This is a full-stack **E-Commerce Website** project developed using:
 | Security      | Spring Security + JWT |
 | Tools         | Postman, Git, GitHub |
 
-## 🗃️ Project Structure
+
 
